@@ -7,10 +7,9 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
  
 public class MainTest {
 
-    @Mock
-    Ledger ledger;
     @Test
     void testLedger(){
+        Ledger ledger = new Ledger();
         boolean value = ledger.evaluateLedger();
         assertEquals(value,Boolean.TRUE);
     }
