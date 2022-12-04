@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-04T12:22:30" hostname="DESKTOP-1QHNEVB" time="17.616">
+  <properties/>
+  <testcase name="testLedger()" classname="MainTest" time="17.616"/>
+  <system-out><![CDATA[IDIDI Dale 1326.0 9.0
+IDIDI Dale 3652.0 4.0
+UON Shelly 15856.0 3.0
+MBI Harry 9044.0 10.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
